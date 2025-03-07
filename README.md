@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently studying Games Programming and developing my programming skills across a range of disciplines :)
+
 <!--
 **elle17day/elle17day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
